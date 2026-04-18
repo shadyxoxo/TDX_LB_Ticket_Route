@@ -1,5 +1,5 @@
 technicians = {
-    "shad": 10011,
-    "todd": 10012,
-    "Brian": 10013
+    "Tech1": 10011,
+    "Tech2": 10012,
+    "Tech3": 10013
 }
